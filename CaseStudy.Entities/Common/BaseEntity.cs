@@ -1,5 +1,3 @@
-using Dapper.Contrib.Extensions;
-using System.ComponentModel.DataAnnotations;
 
 namespace CaseStudy.Entities.Common;
 

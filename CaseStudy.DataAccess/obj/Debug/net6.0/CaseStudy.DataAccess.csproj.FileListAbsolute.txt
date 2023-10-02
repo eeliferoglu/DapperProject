@@ -1,0 +1,90 @@
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/bin/Debug/net6.0/CaseStudy.DataAccess.deps.json
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/bin/Debug/net6.0/CaseStudy.DataAccess.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/bin/Debug/net6.0/CaseStudy.DataAccess.pdb
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/bin/Debug/net6.0/CaseStudy.Entities.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/bin/Debug/net6.0/CaseStudy.Entities.pdb
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/CaseStudy.DataAccess.csproj.AssemblyReference.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/CaseStudy.DataAccess.AssemblyInfoInputs.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/CaseStudy.DataAccess.AssemblyInfo.cs
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/CaseStudy.DataAccess.csproj.CopyComplete
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/CaseStudy.DataAccess.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/refint/CaseStudy.DataAccess.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/CaseStudy.DataAccess.pdb
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.DataAccess/obj/Debug/net6.0/ref/CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.deps.json
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfo.cs
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CopyComplete
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\refint\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\ref\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.deps.json
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CopyComplete
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\refint\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\ref\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.deps.json
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfo.cs
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CopyComplete
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\refint\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\ref\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.deps.json
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CopyComplete
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\refint\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\ref\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.deps.json
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.csproj.CopyComplete
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\refint\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.DataAccess\obj\Debug\net6.0\ref\CaseStudy.DataAccess.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bW8x2GRZPETtoWZ2OtoMZrYWa4x8RhqPVU+lv0Y03dPE/xxH27BTXax5Zmc15dVfkYlFDplfF+hEaZc+BY7XVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elif\\OneDrive\\Masaüstü\\LibraryProject\\CaseStudy.WebAPI\\CaseStudy.Entities\\CaseStudy.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elif\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\elif\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+  ],
+  "logs": []
+}

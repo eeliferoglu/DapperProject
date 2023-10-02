@@ -35,9 +35,9 @@ public class CategoryContoller : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult CreateCategory(CategoryView categoryView)
+    public IActionResult CreateCategory(CategoryRequest categoryRequest)
     {
-        var result = _categoryService.Create(categoryView);
+        var result = _categoryService.Create(categoryRequest);
 
         if (result)
         {
@@ -48,9 +48,9 @@ public class CategoryContoller : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public IActionResult UpdateCategory(int id, CategoryView categoryView)
+    public IActionResult UpdateCategory(int id, CategoryRequest categoryRequest)
     {
-        var result = _categoryService.Update(id, categoryView);
+        var result = _categoryService.Update(id, categoryRequest);
 
         if (result)
         {

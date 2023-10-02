@@ -1,15 +1,5 @@
-﻿using CaseStudy.Business.Services.Category;
+﻿
 using CaseStudy.DataAccess.Abstract;
-using CaseStudy.DataAccess.Concrete;
-using CaseStudy.Entities.Concrete;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static Dapper.SqlMapper;
 
 namespace CaseStudy.Business.Services.Book
 {
@@ -26,7 +16,7 @@ namespace CaseStudy.Business.Services.Book
             var entities = _bookRepository.GetAll();
             return entities.Select(x => new BookView
             {
-                //Id = x.Id,
+                Id = x.Id,
                 Name = x.Name,
                 CategoryId=x.CategoryId,  
                 Stock=x.Stock,  
@@ -43,47 +33,47 @@ namespace CaseStudy.Business.Services.Book
             {
                 return new BookView
                 {
-                    //Id = entity.Id,
+                    Id = entity.Id,
                     Name = entity.Name,
                     CategoryId = entity.CategoryId,
                     Stock = entity.Stock,
                     Price = entity.Price,
                     Author = entity.Author,
                     Description = entity.Description,
-            };
+                };
             }
 
             return null;
         }
-        public bool Create(BookView bookView)
+        public bool Create(BookRequest bookRequest)
         {
           
                 var newBook = new Entities.Concrete.Book
                 {
-                    Name = bookView.Name,
-                    CategoryId = bookView.CategoryId,
-                    Stock = bookView.Stock,
-                    Price = bookView.Price,
-                    Author = bookView.Author,
-                    Description = bookView.Description
+                    Name = bookRequest.Name,
+                    CategoryId = bookRequest.CategoryId,
+                    Stock = bookRequest.Stock,
+                    Price = bookRequest.Price,
+                    Author = bookRequest.Author,
+                    Description = bookRequest.Description
                 };
 
                 return _bookRepository.Create(newBook);
           
         }
-        public bool Update(int id, BookView bookView)
+        public bool Update(int id, BookRequest bookRequest)
         {
               var existingBook = _bookRepository.GetById(id);
 
                 if (existingBook != null)
                 {
 
-                    existingBook.Name = bookView.Name;
-                    existingBook.CategoryId = bookView.CategoryId;
-                    existingBook.Stock = bookView.Stock;
-                    existingBook.Price = bookView.Price;
-                    existingBook.Author = bookView.Author;
-                    existingBook.Description = bookView.Description;
+                    existingBook.Name = bookRequest.Name;
+                    existingBook.CategoryId = bookRequest.CategoryId;
+                    existingBook.Stock = bookRequest.Stock;
+                    existingBook.Price = bookRequest.Price;
+                    existingBook.Author = bookRequest.Author;
+                    existingBook.Description = bookRequest.Description;
 
                     return _bookRepository.Update(existingBook);
                 }

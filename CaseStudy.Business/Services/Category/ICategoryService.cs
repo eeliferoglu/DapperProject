@@ -4,7 +4,7 @@ public interface ICategoryService
 {
     List<CategoryView> GetAll();
     CategoryView GetById(int id);
-    bool Create(CategoryView categoryView);
-    bool Update(int id, CategoryView categoryView);
+    bool Create(CategoryRequest categoryRequest);
+    bool Update(int id, CategoryRequest categoryRequest);
     bool Delete(int id);
 }

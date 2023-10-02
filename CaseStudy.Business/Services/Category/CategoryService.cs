@@ -16,7 +16,7 @@ public class CategoryService : ICategoryService
         var entities = _categoryRepository.GetAll();
         return entities.Select(x => new CategoryView
         {
-            //Id = x.Id,
+            Id = x.Id,
             Name = x.Name
         }).ToList();
     }
@@ -28,7 +28,7 @@ public class CategoryService : ICategoryService
             {
                 return new CategoryView
                 {
-                    //Id = entity.Id,
+                    Id = entity.Id,
                     Name = entity.Name
                 };
             }
@@ -36,13 +36,13 @@ public class CategoryService : ICategoryService
             return null;
         }
 
-    public bool Create(CategoryView categoryView)
+    public bool Create(CategoryRequest categoryRequest)
     {
        
             var newCategory = new Entities.Concrete.Category();
 
             {
-                newCategory.Name = categoryView.Name;
+                newCategory.Name = categoryRequest.Name;
             };
 
             return _categoryRepository.Create(newCategory);
@@ -50,7 +50,7 @@ public class CategoryService : ICategoryService
         
     }
 
-    public bool Update(int id, CategoryView categoryView)
+    public bool Update(int id, CategoryRequest categoryRequest)
         {
            
                 var existingCategory = _categoryRepository.GetById(id);
@@ -58,7 +58,7 @@ public class CategoryService : ICategoryService
                 if (existingCategory != null)
                 {
 
-                    existingCategory.Name = categoryView.Name;
+                    existingCategory.Name = categoryRequest.Name;
                     
 
                     return _categoryRepository.Update(existingCategory);

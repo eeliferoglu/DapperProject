@@ -1,0 +1,15 @@
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\bin\Debug\net6.0\Library.Business.deps.json
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\bin\Debug\net6.0\Library.Business.dll
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\bin\Debug\net6.0\Library.Business.pdb
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\bin\Debug\net6.0\Library.Entities.dll
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\bin\Debug\net6.0\Library.Entities.pdb
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\Library.Business.csproj.AssemblyReference.cache
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\Library.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\Library.Business.AssemblyInfoInputs.cache
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\Library.Business.AssemblyInfo.cs
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\Library.Business.csproj.CopyComplete
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\Library.Business.dll
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\refint\Library.Business.dll
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\Library.Business.pdb
+C:\Users\elif\source\repos\Library.WebAPI\Library.Business\obj\Debug\net6.0\ref\Library.Business.dll

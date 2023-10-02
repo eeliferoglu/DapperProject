@@ -35,9 +35,9 @@ public class BookController : Controller
         }
 
         [HttpPost]
-        public IActionResult CreateBook(BookView bookView)
+        public IActionResult CreateBook(BookRequest bookRequest)
         {
-            var result = _bookService.Create(bookView);
+            var result = _bookService.Create(bookRequest);
 
             if (result)
             {
@@ -48,9 +48,9 @@ public class BookController : Controller
         }
 
         [HttpPut("{id}")]
-        public IActionResult UpdateBook(int id, BookView bookView)
+        public IActionResult UpdateBook(int id, BookRequest bookRequest)
         {
-            var result = _bookService.Update(id, bookView);
+            var result = _bookService.Update(id, bookRequest);
 
             if (result)
             {

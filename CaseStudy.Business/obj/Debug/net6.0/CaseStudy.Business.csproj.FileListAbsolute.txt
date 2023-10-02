@@ -1,0 +1,102 @@
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/bin/Debug/net6.0/CaseStudy.Business.deps.json
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/bin/Debug/net6.0/CaseStudy.Business.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/bin/Debug/net6.0/CaseStudy.Business.pdb
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/bin/Debug/net6.0/CaseStudy.Entities.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/bin/Debug/net6.0/CaseStudy.Entities.pdb
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/CaseStudy.Business.csproj.AssemblyReference.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/CaseStudy.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/CaseStudy.Business.AssemblyInfoInputs.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/CaseStudy.Business.AssemblyInfo.cs
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/CaseStudy.Business.csproj.CoreCompileInputs.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/CaseStudy.Business.csproj.CopyComplete
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/CaseStudy.Business.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/refint/CaseStudy.Business.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/CaseStudy.Business.pdb
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/obj/Debug/net6.0/ref/CaseStudy.Business.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/bin/Debug/net6.0/CaseStudy.DataAccess.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Business/bin/Debug/net6.0/CaseStudy.DataAccess.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.deps.json
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.AssemblyReference.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfoInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfo.cs
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CoreCompileInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CopyComplete
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\refint\CaseStudy.Business.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\ref\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.deps.json
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CopyComplete
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\refint\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\ref\CaseStudy.Business.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.deps.json
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.AssemblyReference.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfoInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfo.cs
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CoreCompileInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CopyComplete
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\refint\CaseStudy.Business.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\ref\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.deps.json
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CopyComplete
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\refint\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\ref\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.deps.json
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.DataAccess.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.csproj.CopyComplete
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\refint\CaseStudy.Business.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\CaseStudy.Business.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Business\obj\Debug\net6.0\ref\CaseStudy.Business.dll

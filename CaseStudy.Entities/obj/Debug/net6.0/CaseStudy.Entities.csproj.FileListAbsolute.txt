@@ -1,0 +1,72 @@
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/bin/Debug/net6.0/CaseStudy.Entities.deps.json
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/bin/Debug/net6.0/CaseStudy.Entities.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/bin/Debug/net6.0/CaseStudy.Entities.pdb
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/CaseStudy.Entities.csproj.AssemblyReference.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/CaseStudy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/CaseStudy.Entities.AssemblyInfoInputs.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/CaseStudy.Entities.AssemblyInfo.cs
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/CaseStudy.Entities.csproj.CoreCompileInputs.cache
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/CaseStudy.Entities.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/refint/CaseStudy.Entities.dll
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/CaseStudy.Entities.pdb
+/Users/mehmetuzer/Downloads/Library/Library.WebAPI/CaseStudy.Entities/obj/Debug/net6.0/ref/CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.deps.json
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfoInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfo.cs
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\refint\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\ref\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.deps.json
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\refint\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\ref\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.deps.json
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.AssemblyReference.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfoInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfo.cs
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\refint\CaseStudy.Entities.dll
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\Downloads\CaseStudy.WebAPI (2) (1)\CaseStudy.WebAPI\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\ref\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.deps.json
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\refint\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\Yeni klasör\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\ref\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.deps.json
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\bin\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.AssemblyReference.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfoInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.AssemblyInfo.cs
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\refint\CaseStudy.Entities.dll
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\CaseStudy.Entities.pdb
+C:\Users\elif\OneDrive\Masaüstü\LibraryProject\CaseStudy.WebAPI\CaseStudy.Entities\obj\Debug\net6.0\ref\CaseStudy.Entities.dll
