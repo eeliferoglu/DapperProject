@@ -6,7 +6,7 @@ namespace CaseStudy.WebAPI.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
-public class CategoryContoller : ControllerBase
+public class CategoryContoller : Controller
 {
     private readonly ICategoryService _categoryService;
 
